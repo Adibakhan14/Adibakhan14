@@ -22,7 +22,8 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 
 ### 🪶 GSSOC(24) Badges 
 <div>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="<a href="https://badgr.com/public/assertions/sbgibV3aQ_SPzPkXtapeUA">" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px"/>
+  <a href="https://badgr.com/public/assertions/sbgibV3aQ_SPzPkXtapeUA">Badge</a>
   
 </div>
 
