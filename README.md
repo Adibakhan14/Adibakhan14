@@ -13,10 +13,6 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 - **WorkHolic**: A freelancing platform that uses AI for matching clients with freelancers, with secure payment through blockchain escrow.
 - **DBMS Project for a Grocery Mart**: Implementing a structured database with tables for Customer, Product, Category, Order, Supplier, Payment, and Inventory, with rules and constraints.
 
-### 🔍 I’m Currently Exploring
-- Market analysis on freelancing platforms like Upwork and Fiverr
-- AI integration in freelancing platforms and effective skill assessment for freelancers
-
 ### 🤝 Connect With Me
 - 📧 Email: khanadiba595@gmail.com
 - 💼 LinkedIn: [Adiba Khan](https://www.linkedin.com/in/adiba-khan-94727a269/)
@@ -24,7 +20,7 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 ### 📊 GitHub Stats
 ![Adiba's GitHub stats](https://github.com/Adibakhan14)
 
-### GSSOC(24) Badges 🪶
+### 🪶 GSSOC(24) Badges 
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
 
 
