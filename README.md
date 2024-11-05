@@ -18,7 +18,7 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 - 💼 LinkedIn: [Adiba Khan](https://www.linkedin.com/in/adiba-khan-94727a269/)
 
 ### 📊 GitHub Stats
-![Adiba's GitHub stats](https://github.com/Adibakhan14)
+- ![Adiba's GitHub stats](https://github.com/Adibakhan14)
 
 ### 🪶 GSSOC(24) Badges 
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px"/>
