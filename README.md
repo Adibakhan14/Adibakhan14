@@ -8,6 +8,12 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 - **Languages**: C, C++, Java
 - **Frontend**: HTML, CSS
 - **Database**: MySQL
+- **Tools**: Postman, GitHub
+
+### 🏆 Certifications & Achievements
+- **Postman API Fundamentals Student Expert** - Mastered API fundamentals and hands-on skills in Postman
+- **Generative AI Certification** - Gained expertise in generative AI models and techniques
+- **GSSoC Contributor** - Contributed to open-source projects in GirlScript Summer of Code (2024)
 
 ### 🌱 I’m Currently Working On
 - **WorkHolic**: A freelancing platform that uses AI for matching clients with freelancers, with secure payment through blockchain escrow.
@@ -29,7 +35,6 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
-
 
 
 
