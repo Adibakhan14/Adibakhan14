@@ -8,7 +8,7 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 - **Languages**: C, C++, Java
 - **Frontend**: HTML, CSS
 - **Database**: MySQL
-- **Tools**: Postman, GitHub
+- **Tools**: Postman, GitHub, Git
 
 ### 🏆 Certifications & Achievements
 - **Postman API Fundamentals Student Expert** - Mastered API fundamentals and hands-on skills in Postman
