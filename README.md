@@ -5,10 +5,10 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 - 🎓 **Recently Completed**: Python programming internship with CodSoft, creating a calculator, to-do list, and password generator
 
 ### 🛠️ Tech Stack
-- **Languages**: C, C++, Java
-- **Frontend**: HTML, CSS
+- **Languages**: C++, Java
+- **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL
-- **Tools**: Postman, GitHub, Git
+- **Tools**: Postman, GitHub, Git, Postman
 
 ### 🏆 Certifications & Achievements
 - **Postman API Fundamentals Student Expert** - Mastered API fundamentals and hands-on skills in Postman
