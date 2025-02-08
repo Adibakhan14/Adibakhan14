@@ -2,7 +2,6 @@
 
 ### 🚀 About Me
 I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Science and Technology.
-- 🎓 **Recently Completed**: Python programming internship with CodSoft, creating a calculator, to-do list, and password generator
 
 ### 🛠️ Tech Stack
 - **Languages**: C++, Java
@@ -14,6 +13,7 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 - **Postman API Fundamentals Student Expert** - Mastered API fundamentals and hands-on skills in Postman
 - **Generative AI Certification** - Gained expertise in generative AI models and techniques
 - **GSSoC Contributor** - Contributed to open-source projects in GirlScript Summer of Code (2024)
+- **NPTEL Java Certified** - Successfully completed the "Programming in Java" course with a consolidated score of 58%.
 
 ### 🌱 I’m Currently Working On
 - **WorkHolic**: A freelancing platform that uses AI for matching clients with freelancers, with secure payment through blockchain escrow.
@@ -24,7 +24,7 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 - 💼 LinkedIn: [Adiba Khan](https://www.linkedin.com/in/adiba-khan-94727a269/)
 
 ### 📊 GitHub Stats
-- ![Adiba's GitHub stats](https://github.com/Adibakhan14)
+- [Adiba's GitHub stats](https://github.com/Adibakhan14)
 
 ### 🪶 GSSOC(24) Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
