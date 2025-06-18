@@ -9,6 +9,11 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 - **Database**: MySQL
 - **Tools**: Postman, GitHub, Git, Postman
 
+### 💻 Projects
+- **🌐 WorkHolic**: A smart freelancing platform aimed at efficiently connecting clients and freelancers. For further implementation, AI/ML/NLP models will be used for smart freelancer matching, job filtering, bidding insights, and client satisfaction analysis.
+- **🛒 Grocery Mart DBMS**: A full-fledged database system using MySQL with tables like Customer, Product, Category, Order, Payment, Supplier, and Inventory. Includes constraints, relationships, and SQL queries.  
+- **🍽️ Tasty Bites - Recipe Webpage**: A stylish and responsive recipe website built using HTML, CSS, and JavaScript. Includes a hero recipe (Paneer Butter Masala), ingredient reveal sections, modal popups for each recipe card, user rating options, and a dark mode toggle.
+
 ### 🏆 Certifications & Achievements
 - **Postman API Fundamentals Student Expert** - Mastered API fundamentals and hands-on skills in Postman
 - **Generative AI Certification** - Gained expertise in generative AI models and techniques
@@ -16,8 +21,8 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 - **NPTEL Java Certified** - Successfully completed the "Programming in Java" course with a consolidated score of 58%.
 
 ### 🌱 I’m Currently Working On
-- **WorkHolic**: A freelancing platform that uses AI for matching clients with freelancers, with secure payment through blockchain escrow.
-- **DBMS Project for a Grocery Mart**: Implementing a structured database with tables for Customer, Product, Category, Order, Supplier, Payment, and Inventory, with rules and constraints.
+- **WorkHolic** (AI-powered Freelancing Platform – AI/ML/NLP integration in progress)  
+- **ZenLife** (Smart Self-Care Dashboard using Java Spring Boot)
 
 ### 🤝 Connect With Me
 - 📧 Email: khanadiba595@gmail.com
