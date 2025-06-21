@@ -12,7 +12,7 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 ### 💻 Projects
 - **🌐 WorkHolic**: A smart freelancing platform aimed at efficiently connecting clients and freelancers. For further implementation, AI/ML/NLP models will be used for smart freelancer matching, job filtering, bidding insights, and client satisfaction analysis.
 - **🛒 Grocery Mart DBMS**: A full-fledged database system using MySQL with tables like Customer, Product, Category, Order, Payment, Supplier, and Inventory. Includes constraints, relationships, and SQL queries.  
-- **🍽️ Tasty Bites - Recipe Webpage**: A stylish and responsive recipe website built using HTML, CSS, and JavaScript. Includes a hero recipe (Paneer Butter Masala), ingredient reveal sections, modal popups for each recipe card, user rating options, and a dark mode toggle.
+- **🍽️ Tasty Bites - Recipe Webpage**: A stylish and responsive recipe website built using HTML, CSS, and JavaScript. Includes a hero recipe (Paneer Butter Masala), ingredient reveal sections, modal popups for each recipe card.
 
 ### 🏆 Certifications & Achievements
 - **Postman API Fundamentals Student Expert** - Mastered API fundamentals and hands-on skills in Postman
