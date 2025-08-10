@@ -8,17 +8,20 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL
 - **Tools**: Postman, GitHub, Git, Postman
+- **Design Tools**: Canva, Figma, Stitch
+- **AI Tools**: Chatgpt, llama Coder, Claude, Cursor
 
 ### 💻 Projects
 - **🌐 WorkHolic**: A smart freelancing platform aimed at efficiently connecting clients and freelancers. For further implementation, AI/ML/NLP models will be used for smart freelancer matching, job filtering, bidding insights, and client satisfaction analysis.
 - **🛒 Grocery Mart DBMS**: A full-fledged database system using MySQL with tables like Customer, Product, Category, Order, Payment, Supplier, and Inventory. Includes constraints, relationships, and SQL queries.  
-- **🍽️ Tasty Bites - Recipe Webpage**: A stylish and responsive recipe website built using HTML, CSS, and JavaScript. Includes a hero recipe (Paneer Butter Masala), ingredient reveal sections, modal popups for each recipe card.
+- **🍽️ Tasty Bites - Recipe Webpage**: A stylish and responsive recipe website built using HTML, CSS, and JavaScript. Include dynamic recipe modals, ingredient display, and clean UI for enhanced user experience. 
 
 ### 🏆 Certifications & Achievements
 - **Postman API Fundamentals Student Expert** - Mastered API fundamentals and hands-on skills in Postman
 - **Generative AI Certification** - Gained expertise in generative AI models and techniques
 - **GSSoC Contributor** - Contributed to open-source projects in GirlScript Summer of Code (2024)
 - **NPTEL Java Certified** - Successfully completed the "Programming in Java" course with a consolidated score of 58%.
+- **Code2k25 Paper Presentation** - Presented AI-Driven Intrusion Detection paper at Code 2k25, focusing on real-time cyber threat monitoring using AI.
 
 ### 🌱 I’m Currently Working On
 - **WorkHolic** (AI-powered Freelancing Platform – AI/ML/NLP integration in progress)  
