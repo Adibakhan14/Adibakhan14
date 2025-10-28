@@ -4,17 +4,18 @@
 I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Science and Technology.
 
 ### 🛠️ Tech Stack
+- **Design Tools**: Figma, Canva, Framer, UI/UX Design, Wireframing, Prototyping
 - **Languages**: C++, Java
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
 - **Database**: MySQL
 - **Tools**: Postman, GitHub, Git, Postman
-- **Design Tools**: Canva, Figma, Stitch
 - **AI Tools**: Chatgpt, llama Coder, Claude, Cursor
 
 ### 💻 Projects
-- **🌐 WorkHolic**: A smart freelancing platform aimed at efficiently connecting clients and freelancers. For further implementation, AI/ML/NLP models will be used for smart freelancer matching, job filtering, bidding insights, and client satisfaction analysis.
-- **🛒 Grocery Mart DBMS**: A full-fledged database system using MySQL with tables like Customer, Product, Category, Order, Payment, Supplier, and Inventory. Includes constraints, relationships, and SQL queries.  
-- **🍽️ Tasty Bites - Recipe Webpage**: A stylish and responsive recipe website built using HTML, CSS, and JavaScript. Include dynamic recipe modals, ingredient display, and clean UI for enhanced user experience. 
+
+- **🍽️ Tasty Bites - Recipe Webpage**: Built responsive web app with live search, filters, and modal recipe popups, Added interactive “Chef Assistant” section for better engagement and UX.
+- ** Tunewave - Music Streaming Platform**: Designed a complete music streaming platform with pages for Home, Playlist, Genre, Artist, and Artist Detail, Focused on engaging visuals, user flow optimization, and reusable design components.
+- ** QuickShow - Movie Booking Platform**: Designed intuitive booking flow with real-time seat selection and secure checkout, Integrated authentication and automated notifications.
 
 ### 🏆 Certifications & Achievements
 - **Postman API Fundamentals Student Expert** - Mastered API fundamentals and hands-on skills in Postman
@@ -23,9 +24,6 @@ I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Sc
 - **NPTEL Java Certified** - Successfully completed the "Programming in Java" course with a consolidated score of 58%.
 - **Code2k25 Paper Presentation** - Presented AI-Driven Intrusion Detection paper at Code 2k25, focusing on real-time cyber threat monitoring using AI.
 
-### 🌱 I’m Currently Working On
-- **WorkHolic** (AI-powered Freelancing Platform – AI/ML/NLP integration in progress)  
-- **ZenLife** (Smart Self-Care Dashboard using Java Spring Boot)
 
 ### 🤝 Connect With Me
 - 📧 Email: khanadiba595@gmail.com
