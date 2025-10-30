@@ -1,47 +1,98 @@
-# Hi there, I'm Adiba Khan 👋
+<!-- Hero Section -->
+<h1 align="center">Hi 👋, I'm Adiba Khan</h1>
+<h3 align="center">UI/UX Designer | Frontend Developer | Tech Enthusiast</h3>
 
-### 🚀 About Me
-I'm a passionate tech enthusiast and a BTech student at Oriental Institute of Science and Technology.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Frontend+Developer;B.Tech+IT+Student;AI+%2B+Design+Explorer;Open+Source+Contributor" />
+</p>
 
-### 🛠️ Tech Stack
-- **Design Tools**: Figma, Canva, Framer, UI/UX Design, Wireframing, Prototyping
-- **Languages**: C++, Java
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Database**: MySQL
-- **Tools**: Postman, GitHub, Git, Postman
-- **AI Tools**: Chatgpt, llama Coder, Claude, Cursor
+---
 
-### 💻 Projects
+### 🧠 About Me  
+- 🎨 Passionate about **UI/UX & Frontend Development**  
+- 🚀 Turning ideas into **interactive digital experiences**  
+- 🤖 Using **AI tools** to accelerate design & development  
+- 💬 Ask me about **Figma | React | UX Design**  
+- 🌱 Currently learning **Advanced UI systems & full-stack concepts**  
 
-- **🍽️ Tasty Bites - Recipe Webpage**: Built responsive web app with live search, filters, and modal recipe popups, Added interactive “Chef Assistant” section for better engagement and UX.
-- ** Tunewave - Music Streaming Platform**: Designed a complete music streaming platform with pages for Home, Playlist, Genre, Artist, and Artist Detail, Focused on engaging visuals, user flow optimization, and reusable design components.
-- ** QuickShow - Movie Booking Platform**: Designed intuitive booking flow with real-time seat selection and secure checkout, Integrated authentication and automated notifications.
+---
 
-### 🏆 Certifications & Achievements
-- **Postman API Fundamentals Student Expert** - Mastered API fundamentals and hands-on skills in Postman
-- **Generative AI Certification** - Gained expertise in generative AI models and techniques
-- **GSSoC Contributor** - Contributed to open-source projects in GirlScript Summer of Code (2024)
-- **NPTEL Java Certified** - Successfully completed the "Programming in Java" course with a consolidated score of 58%.
-- **Code2k25 Paper Presentation** - Presented AI-Driven Intrusion Detection paper at Code 2k25, focusing on real-time cyber threat monitoring using AI.
+### 🛠 Tech Stack
 
+#### 🎨 Design & UI
+![Figma](https://img.shields.io/badge/Figma-%235A2E98?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+#### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### 🧠 Languages
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23E34F26?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### ⚙ Tools & AI
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI-black?style=for-the-badge)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🍽️ **Tasty Bites — Recipe Web App**
+Interactive recipe web app with search & modal popups + AI-like tips assistant  
+🔗 https://github.com/Adibakhan14/Tasty-Bites  
+ 
+📌 _Tech:_ HTML, CSS, JavaScript
+
+
+#### 🎵 **Tunewave — Music UI (Figma)**
+Music streaming platform with reusable design components   
+
+📌 _Tool:_ Figma, UX Design
+
+
+#### 🎬 **QuickShow — Movie Booking**
+Full movie booking flow + Clerk Auth + Automated notifications  
+
+📌 _Tech:_ React, Tailwind, MongoDB  
+
+---
+
+### 🎓 Experience & Certifications
+- UI/UX Design Intern — **Healthorate**
+- **Postman API Fundamentals — Student Expert**
+- **GSSoC ’24 Extended Contributor**
+- **NPTEL Java Certified**
+- Paper Presentation — **AI-Driven Intrusion Detection (CODE2K25)**
+
+---
+
+### 📄 Resume
+<a href="YOUR_GOOGLE_DRIVE_RESUME_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Download_Resume-%23FF4081?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
+
+---
 
 ### 🤝 Connect With Me
-- 📧 Email: khanadiba595@gmail.com
-- 💼 LinkedIn: [Adiba Khan](https://www.linkedin.com/in/adiba-khan-94727a269/)
 
-### 📊 GitHub Stats
-- [Adiba's GitHub stats](https://github.com/Adibakhan14)
+📧 **Email:** khanadiba595@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/adiba-khan-94727a269/  
+🐙 **GitHub:** https://github.com/Adibakhan14  
 
-### 🪶 GSSOC(24) Badges 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</div>
+---
 
+### 🌟 Final Note  
+> _Turning ideas into beautiful & functional digital experiences_ 💡✨  
+Let’s collaborate & build something amazing!
 
-
-Thank you for visiting my profile! Let's connect, collaborate, and create amazing projects together!
