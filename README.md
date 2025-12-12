@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me  
-- 🎨 Passionate about **UI/UX & Frontend Development**  
+- 🎨 Passionate about **UI/UX & Full Stack Development**  
 - 🚀 Turning ideas into **interactive digital experiences**  
 - 🤖 Using **AI tools** to accelerate design & development  
 - 💬 Ask me about **Figma | React | UX Design**  
