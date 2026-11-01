@@ -123,18 +123,6 @@ Music streaming interface designed with reusable components.
 - ☕ **Programming in Java**: NPTEL
 - 📮 **Postman API Fundamentals**: Student Expert
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Adiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adibakhan14&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adibakhan14&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Adibakhan14&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
