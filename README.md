@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Full-Stack+Developer+(MERN);B.Tech+IT+%2726;AI+%2B+Design+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=figma&logoColor=white)](https://adibakhan-portfolio.framer.website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://adibakhan-portfolio.framer.website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiba-khan-94727a269/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanadiba595@gmail.com)
 
