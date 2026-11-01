@@ -75,7 +75,7 @@ Generates complete React websites from natural-language prompts. Users can keep 
 - Modular, production-ready architecture with **CodeRabbit** for automated AI code reviews
 
 📌 **Tech:** `OpenRouter` `React.js` `Node.js` `Express.js` `MongoDB`
-🔗 [View Project](https://github.com/Adibakhan14/YOUR_BUILDER_AI_REPO)
+🔗 [View Project](https://github.com/Adibakhan14/BUILDER.AI)
 
 ---
 
@@ -86,7 +86,7 @@ A complete booking experience: browse movies, explore showtimes, pick seats and 
 - **Inngest** background jobs for notifications, booking confirmations and reminders
 
 📌 **Tech:** `React.js` `Tailwind CSS` `MongoDB` `Clerk` `Inngest`
-🔗 [View Project](https://github.com/Adibakhan14/YOUR_QUICKSHOW_REPO)
+🔗 [View Project](https://github.com/Adibakhan14/QuickShow)
 
 ---
 
